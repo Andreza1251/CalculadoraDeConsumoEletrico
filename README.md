@@ -9,4 +9,4 @@
 A fórmula utilizada para encontrar o consumo mensal que o aparelho utiliza foi consumoMensal = (potencia * horasDia * 30) / 1000
 
 # Instruções utilizadas para executar o programa
- Depois de iniciar, coloque as informações solicitadas corretamente que são, nome do aparelho à ser calculado a energia, a potência do aparelho **em watts (W)&& e tempo médio de uso diário em horas.
+ Depois de iniciar, coloque as informações solicitadas corretamente que são, nome do aparelho à ser calculado a energia, a potência do aparelho **em watts (W)** e tempo médio de uso diário em horas.
